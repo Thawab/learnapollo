@@ -13,7 +13,7 @@ You will get familiar with the infrastructure surrounding Apollo Client for Reac
 This tutorial uses [ExponentJS](https://getexponent.com/).
 ExponentJS is a mobile app development tool for React Native with an included SKD for system functionality and also provides UI components
 
-## Introduction
+## Introducti on
 
 Sign up with GitHub to receive your own `pokedex-react-native-exponent` here:
 
